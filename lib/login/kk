@@ -1,0 +1,20 @@
+  Row(children: <Widget>[
+                              Icon(
+                          FontAwesomeIcons.mapMarkedAlt,
+                          size: 15,
+                          ),
+          
+                            ],)
+
+
+                            Column(
+                             children:[
+                                ListTile(
+                              title: Text("Kunle Ojo"),
+                              subtitle: Text(
+                               "Product Designer",
+                              ),
+                            ),
+                           
+                             ]
+                           )
